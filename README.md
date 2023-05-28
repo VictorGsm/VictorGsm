@@ -7,7 +7,5 @@
 - 📫 E-mail para contato: victorgsmdev@gmail.com
 https://skillicons.dev/icons?i=js,html,css,wasm
 <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />          
 <img src="[https://skillicons.dev/icons/CSS.svg alt="javascript" width="40" height="40"/>
